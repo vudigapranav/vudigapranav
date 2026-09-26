@@ -18,6 +18,7 @@
 **Tech:** Python · C++ · Java · TypeScript · React · Flutter
 
 <p>
+  <a href="https://portfolio-gamma-orcin-9vrcmujucr.vercel.app/">Portfolio</a> ·
   <a href="https://instagram.com/vpranav_07">Instagram</a> ·
   <a href="https://linkedin.com/in/pranav-vudiga-5b6373384">LinkedIn</a> ·
   <a href="mailto:vudigapranav@gmail.com">Email</a>
