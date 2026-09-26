@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vudigapranav/vudigapranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pranav-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/pranav-light.svg">
+  <img alt="PRANAV" src="./assets/pranav-light.svg" width="440">
+</picture>
 
-Here are some ideas to get you started:
+**Building AI-powered ideas into useful products.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+- 🤖 Exploring generative AI, agentic AI, and full-stack development
+- 🤝 Open to hackathons, open source, and interesting collaborations
+- 💬 Ask me about AI, C++, Java, DSA, Linux, and photography
+
+**Tech:** Python · C++ · Java · TypeScript · React · Flutter
+
+<p>
+  <a href="https://instagram.com/vpranav_07">Instagram</a> ·
+  <a href="https://linkedin.com/in/pranav-vudiga-5b6373384">LinkedIn</a> ·
+  <a href="mailto:vudigapranav@gmail.com">Email</a>
+</p>
