@@ -11,6 +11,7 @@
 </div>
 
 - 🤖 Exploring generative AI, agentic AI, and full-stack development
+- 🛡️ Currently learning cybersecurity
 - 🤝 Open to hackathons, open source, and interesting collaborations
 - 💬 Ask me about AI, C++, Java, DSA, Linux, and photography
 
